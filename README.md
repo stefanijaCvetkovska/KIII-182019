@@ -1,2 +1,2 @@
-# kiii_h1_182019
+# KIII_h1_182019
 Repository for DevOps homework 1 

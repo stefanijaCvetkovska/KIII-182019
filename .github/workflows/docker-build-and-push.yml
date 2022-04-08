@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: stefanijac1820919/docker-gitactions-demo
+          tags: stefanijac182019/docker-gitactions-demo
